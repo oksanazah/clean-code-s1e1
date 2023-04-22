@@ -20,7 +20,7 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .logo { 
     text-align: center;
@@ -53,7 +53,8 @@ li {
   list-style: none;
 }
 
-input,button{
+input,
+button {
   outline: none;
 }
 
@@ -127,7 +128,7 @@ input,button{
   width: 226px;
 }
 
-.task-item >    .input-task {
+.task-item > .input-task {
   width: 226px;
 }
 
